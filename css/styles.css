@@ -389,7 +389,7 @@ a {
 .projects .list-filters {
   display: flex;
   justify-content: center;
-  margin-bottom: 34px;
+  margin-bottom: 50px;
 }
 
 .list-filters .item-filters:not(:last-child) {
